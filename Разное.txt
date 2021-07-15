@@ -1,0 +1,24 @@
+<!--    <link th:href="@{/css/bootstrap.min.css}" rel="stylesheet">-->
+<!--    <link th:href="@{/css/common.css}" rel="stylesheet">-->
+<!--    <link th:href="@{/css/mine.css}" rel="stylesheet">-->
+
+<!--        <form id="logoutForm" method="POST" action="logout">-->
+<!--            <input type="hidden" name="${_csrf.parameterName}" value="${_csrf.token}"/>-->
+<!--        </form>-->
+
+<!--        <span th:text="${#authentication.name}">Welcome ...</span>-->
+<!--        <div th:text="${#authentication.name}"></div>-->
+
+<!--        <h4><a href="#" onclick="document.forms['logoutForm'].submit();return(false);">Logout</a></h4>-->
+
+<!--<script src="/js/bootstrap.min.js"></script>-->
+<!--<script src="resources/js/bootstrap.min.js" th:src="@{resources/static/js/bootstrap.min.js}"></script>-->
+<!--<script src="resources/js/bootstrap.min.js"></script>-->
+
+<!--        <h4><a href="#" onclick="document.forms['logoutForm'].submit();return(false);">Logout</a></h4>-->
+
+<!--<div sec:authorize data-th-accesskey="hasAuthority('CHANGE_PASSWORD_PRIVILEGE')">-->
+
+<!--        <div class="text-left ${error != null ? 'has-error' : ''}">-->
+<!--        </div>-->
+
